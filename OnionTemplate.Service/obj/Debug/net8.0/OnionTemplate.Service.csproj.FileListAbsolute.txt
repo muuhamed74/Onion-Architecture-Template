@@ -1,0 +1,17 @@
+E:\Coding\Onion-Architecture-Template\OnionTemplate.Service\bin\Debug\net8.0\OnionTemplate.Service.deps.json
+E:\Coding\Onion-Architecture-Template\OnionTemplate.Service\bin\Debug\net8.0\OnionTemplate.Service.dll
+E:\Coding\Onion-Architecture-Template\OnionTemplate.Service\bin\Debug\net8.0\OnionTemplate.Service.pdb
+E:\Coding\Onion-Architecture-Template\OnionTemplate.Service\bin\Debug\net8.0\OnionTemplate.Domain.dll
+E:\Coding\Onion-Architecture-Template\OnionTemplate.Service\bin\Debug\net8.0\Service Abstraction.dll
+E:\Coding\Onion-Architecture-Template\OnionTemplate.Service\bin\Debug\net8.0\OnionTemplate.Domain.pdb
+E:\Coding\Onion-Architecture-Template\OnionTemplate.Service\bin\Debug\net8.0\Service Abstraction.pdb
+E:\Coding\Onion-Architecture-Template\OnionTemplate.Service\obj\Debug\net8.0\OnionTemplate.Service.csproj.AssemblyReference.cache
+E:\Coding\Onion-Architecture-Template\OnionTemplate.Service\obj\Debug\net8.0\OnionTemplate.Service.GeneratedMSBuildEditorConfig.editorconfig
+E:\Coding\Onion-Architecture-Template\OnionTemplate.Service\obj\Debug\net8.0\OnionTemplate.Service.AssemblyInfoInputs.cache
+E:\Coding\Onion-Architecture-Template\OnionTemplate.Service\obj\Debug\net8.0\OnionTemplate.Service.AssemblyInfo.cs
+E:\Coding\Onion-Architecture-Template\OnionTemplate.Service\obj\Debug\net8.0\OnionTemplate.Service.csproj.CoreCompileInputs.cache
+E:\Coding\Onion-Architecture-Template\OnionTemplate.Service\obj\Debug\net8.0\OnionTem.B88ADBCB.Up2Date
+E:\Coding\Onion-Architecture-Template\OnionTemplate.Service\obj\Debug\net8.0\OnionTemplate.Service.dll
+E:\Coding\Onion-Architecture-Template\OnionTemplate.Service\obj\Debug\net8.0\refint\OnionTemplate.Service.dll
+E:\Coding\Onion-Architecture-Template\OnionTemplate.Service\obj\Debug\net8.0\OnionTemplate.Service.pdb
+E:\Coding\Onion-Architecture-Template\OnionTemplate.Service\obj\Debug\net8.0\ref\OnionTemplate.Service.dll

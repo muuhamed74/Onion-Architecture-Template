@@ -1,0 +1,14 @@
+{
+    "$schema": "http://json.schemastore.org/template",
+    "author": "Mohamed Hesham",
+    "classifications": [ "Web", "Onion", "Clean Architecture" ],
+    "identity": "Onion.Architecture.Template",
+    "name": "Onion Architecture Template",
+    "shortName": "onion-arch",
+    "sourceName": "MyOnionTemplate",
+    "tags": {
+        "language": "C#",
+        "type": "project"
+    }
+}
+

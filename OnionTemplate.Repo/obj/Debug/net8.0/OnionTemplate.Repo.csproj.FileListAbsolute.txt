@@ -1,0 +1,15 @@
+E:\Coding\Onion-Architecture-Template\OnionTemplate.Repo\bin\Debug\net8.0\OnionTemplate.Repo.deps.json
+E:\Coding\Onion-Architecture-Template\OnionTemplate.Repo\bin\Debug\net8.0\OnionTemplate.Repo.dll
+E:\Coding\Onion-Architecture-Template\OnionTemplate.Repo\bin\Debug\net8.0\OnionTemplate.Repo.pdb
+E:\Coding\Onion-Architecture-Template\OnionTemplate.Repo\bin\Debug\net8.0\OnionTemplate.Domain.dll
+E:\Coding\Onion-Architecture-Template\OnionTemplate.Repo\bin\Debug\net8.0\OnionTemplate.Domain.pdb
+E:\Coding\Onion-Architecture-Template\OnionTemplate.Repo\obj\Debug\net8.0\OnionTemplate.Repo.csproj.AssemblyReference.cache
+E:\Coding\Onion-Architecture-Template\OnionTemplate.Repo\obj\Debug\net8.0\OnionTemplate.Repo.GeneratedMSBuildEditorConfig.editorconfig
+E:\Coding\Onion-Architecture-Template\OnionTemplate.Repo\obj\Debug\net8.0\OnionTemplate.Repo.AssemblyInfoInputs.cache
+E:\Coding\Onion-Architecture-Template\OnionTemplate.Repo\obj\Debug\net8.0\OnionTemplate.Repo.AssemblyInfo.cs
+E:\Coding\Onion-Architecture-Template\OnionTemplate.Repo\obj\Debug\net8.0\OnionTemplate.Repo.csproj.CoreCompileInputs.cache
+E:\Coding\Onion-Architecture-Template\OnionTemplate.Repo\obj\Debug\net8.0\OnionTem.65DECC76.Up2Date
+E:\Coding\Onion-Architecture-Template\OnionTemplate.Repo\obj\Debug\net8.0\OnionTemplate.Repo.dll
+E:\Coding\Onion-Architecture-Template\OnionTemplate.Repo\obj\Debug\net8.0\refint\OnionTemplate.Repo.dll
+E:\Coding\Onion-Architecture-Template\OnionTemplate.Repo\obj\Debug\net8.0\OnionTemplate.Repo.pdb
+E:\Coding\Onion-Architecture-Template\OnionTemplate.Repo\obj\Debug\net8.0\ref\OnionTemplate.Repo.dll

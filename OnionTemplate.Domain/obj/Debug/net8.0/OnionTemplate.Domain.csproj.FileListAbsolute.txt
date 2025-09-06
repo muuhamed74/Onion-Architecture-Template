@@ -1,0 +1,14 @@
+E:\Coding\Onion-Architecture-Template\OnionTemplate.Domain\bin\Debug\net8.0\OnionTemplate.Domain.deps.json
+E:\Coding\Onion-Architecture-Template\OnionTemplate.Domain\bin\Debug\net8.0\OnionTemplate.Domain.runtimeconfig.json
+E:\Coding\Onion-Architecture-Template\OnionTemplate.Domain\bin\Debug\net8.0\OnionTemplate.Domain.dll
+E:\Coding\Onion-Architecture-Template\OnionTemplate.Domain\bin\Debug\net8.0\OnionTemplate.Domain.pdb
+E:\Coding\Onion-Architecture-Template\OnionTemplate.Domain\obj\Debug\net8.0\OnionTemplate.Domain.csproj.AssemblyReference.cache
+E:\Coding\Onion-Architecture-Template\OnionTemplate.Domain\obj\Debug\net8.0\OnionTemplate.Domain.GeneratedMSBuildEditorConfig.editorconfig
+E:\Coding\Onion-Architecture-Template\OnionTemplate.Domain\obj\Debug\net8.0\OnionTemplate.Domain.AssemblyInfoInputs.cache
+E:\Coding\Onion-Architecture-Template\OnionTemplate.Domain\obj\Debug\net8.0\OnionTemplate.Domain.AssemblyInfo.cs
+E:\Coding\Onion-Architecture-Template\OnionTemplate.Domain\obj\Debug\net8.0\OnionTemplate.Domain.csproj.CoreCompileInputs.cache
+E:\Coding\Onion-Architecture-Template\OnionTemplate.Domain\obj\Debug\net8.0\OnionTemplate.Domain.dll
+E:\Coding\Onion-Architecture-Template\OnionTemplate.Domain\obj\Debug\net8.0\refint\OnionTemplate.Domain.dll
+E:\Coding\Onion-Architecture-Template\OnionTemplate.Domain\obj\Debug\net8.0\OnionTemplate.Domain.pdb
+E:\Coding\Onion-Architecture-Template\OnionTemplate.Domain\obj\Debug\net8.0\OnionTemplate.Domain.genruntimeconfig.cache
+E:\Coding\Onion-Architecture-Template\OnionTemplate.Domain\obj\Debug\net8.0\ref\OnionTemplate.Domain.dll

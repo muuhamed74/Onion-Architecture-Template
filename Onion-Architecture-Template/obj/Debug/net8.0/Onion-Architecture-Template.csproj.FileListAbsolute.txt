@@ -1,0 +1,8 @@
+E:\Coding\Onion-Architecture-Template\Onion-Architecture-Template\obj\Debug\net8.0\Onion-Architecture-Template.csproj.AssemblyReference.cache
+E:\Coding\Onion-Architecture-Template\Onion-Architecture-Template\obj\Debug\net8.0\rpswa.dswa.cache.json
+E:\Coding\Onion-Architecture-Template\Onion-Architecture-Template\obj\Debug\net8.0\Onion-Architecture-Template.GeneratedMSBuildEditorConfig.editorconfig
+E:\Coding\Onion-Architecture-Template\Onion-Architecture-Template\obj\Debug\net8.0\Onion-Architecture-Template.AssemblyInfoInputs.cache
+E:\Coding\Onion-Architecture-Template\Onion-Architecture-Template\obj\Debug\net8.0\Onion-Architecture-Template.AssemblyInfo.cs
+E:\Coding\Onion-Architecture-Template\Onion-Architecture-Template\obj\Debug\net8.0\Onion-Architecture-Template.csproj.CoreCompileInputs.cache
+E:\Coding\Onion-Architecture-Template\Onion-Architecture-Template\obj\Debug\net8.0\Onion-Architecture-Template.MvcApplicationPartsAssemblyInfo.cs
+E:\Coding\Onion-Architecture-Template\Onion-Architecture-Template\obj\Debug\net8.0\Onion-Architecture-Template.MvcApplicationPartsAssemblyInfo.cache

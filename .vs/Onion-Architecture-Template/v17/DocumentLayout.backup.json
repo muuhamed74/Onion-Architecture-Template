@@ -1,0 +1,130 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Coding\\Onion-Architecture-Template\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2567C14D-2DDF-4858-BA2A-5E6E00F84BEA}|Onion-Architecture-Template\\Onion-Architecture-Template.csproj|e:\\coding\\onion-architecture-template\\onion-architecture-template\\extensions\\appserviceextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2567C14D-2DDF-4858-BA2A-5E6E00F84BEA}|Onion-Architecture-Template\\Onion-Architecture-Template.csproj|solutionrelative:onion-architecture-template\\extensions\\appserviceextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53DA5A27-2380-4E19-9EED-76FF69A177DD}|OnionTemplate.Domain\\OnionTemplate.Domain.csproj|e:\\coding\\onion-architecture-template\\oniontemplate.domain\\specifications\\basespecification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53DA5A27-2380-4E19-9EED-76FF69A177DD}|OnionTemplate.Domain\\OnionTemplate.Domain.csproj|solutionrelative:oniontemplate.domain\\specifications\\basespecification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53DA5A27-2380-4E19-9EED-76FF69A177DD}|OnionTemplate.Domain\\OnionTemplate.Domain.csproj|e:\\coding\\onion-architecture-template\\oniontemplate.domain\\specifications\\ispecification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53DA5A27-2380-4E19-9EED-76FF69A177DD}|OnionTemplate.Domain\\OnionTemplate.Domain.csproj|solutionrelative:oniontemplate.domain\\specifications\\ispecification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53DA5A27-2380-4E19-9EED-76FF69A177DD}|OnionTemplate.Domain\\OnionTemplate.Domain.csproj|e:\\coding\\onion-architecture-template\\oniontemplate.domain\\oniontemplate.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{53DA5A27-2380-4E19-9EED-76FF69A177DD}|OnionTemplate.Domain\\OnionTemplate.Domain.csproj|solutionrelative:oniontemplate.domain\\oniontemplate.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53DA5A27-2380-4E19-9EED-76FF69A177DD}|OnionTemplate.Domain\\OnionTemplate.Domain.csproj|e:\\coding\\onion-architecture-template\\oniontemplate.domain\\entities\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53DA5A27-2380-4E19-9EED-76FF69A177DD}|OnionTemplate.Domain\\OnionTemplate.Domain.csproj|solutionrelative:oniontemplate.domain\\entities\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2567C14D-2DDF-4858-BA2A-5E6E00F84BEA}|Onion-Architecture-Template\\Onion-Architecture-Template.csproj|e:\\coding\\onion-architecture-template\\onion-architecture-template\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2567C14D-2DDF-4858-BA2A-5E6E00F84BEA}|Onion-Architecture-Template\\Onion-Architecture-Template.csproj|solutionrelative:onion-architecture-template\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BaseSpecification.cs",
+              "DocumentMoniker": "E:\\Coding\\Onion-Architecture-Template\\OnionTemplate.Domain\\Specifications\\BaseSpecification.cs",
+              "RelativeDocumentMoniker": "OnionTemplate.Domain\\Specifications\\BaseSpecification.cs",
+              "ToolTip": "E:\\Coding\\Onion-Architecture-Template\\OnionTemplate.Domain\\Specifications\\BaseSpecification.cs",
+              "RelativeToolTip": "OnionTemplate.Domain\\Specifications\\BaseSpecification.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAwwD0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-06T16:08:05.397Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ISpecification.cs",
+              "DocumentMoniker": "E:\\Coding\\Onion-Architecture-Template\\OnionTemplate.Domain\\Specifications\\ISpecification.cs",
+              "RelativeDocumentMoniker": "OnionTemplate.Domain\\Specifications\\ISpecification.cs",
+              "ToolTip": "E:\\Coding\\Onion-Architecture-Template\\OnionTemplate.Domain\\Specifications\\ISpecification.cs",
+              "RelativeToolTip": "OnionTemplate.Domain\\Specifications\\ISpecification.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-06T16:07:00.354Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "OnionTemplate.Domain",
+              "DocumentMoniker": "E:\\Coding\\Onion-Architecture-Template\\OnionTemplate.Domain\\OnionTemplate.Domain.csproj",
+              "RelativeDocumentMoniker": "OnionTemplate.Domain\\OnionTemplate.Domain.csproj",
+              "ToolTip": "E:\\Coding\\Onion-Architecture-Template\\OnionTemplate.Domain\\OnionTemplate.Domain.csproj",
+              "RelativeToolTip": "OnionTemplate.Domain\\OnionTemplate.Domain.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-09-06T16:06:26.775Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "E:\\Coding\\Onion-Architecture-Template\\OnionTemplate.Domain\\Entities\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "OnionTemplate.Domain\\Entities\\BaseEntity.cs",
+              "ToolTip": "E:\\Coding\\Onion-Architecture-Template\\OnionTemplate.Domain\\Entities\\BaseEntity.cs",
+              "RelativeToolTip": "OnionTemplate.Domain\\Entities\\BaseEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-06T16:02:07.195Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AppServiceExtension.cs",
+              "DocumentMoniker": "E:\\Coding\\Onion-Architecture-Template\\Onion-Architecture-Template\\Extensions\\AppServiceExtension.cs",
+              "RelativeDocumentMoniker": "Onion-Architecture-Template\\Extensions\\AppServiceExtension.cs",
+              "ToolTip": "E:\\Coding\\Onion-Architecture-Template\\Onion-Architecture-Template\\Extensions\\AppServiceExtension.cs",
+              "RelativeToolTip": "Onion-Architecture-Template\\Extensions\\AppServiceExtension.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-06T15:30:09.956Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Coding\\Onion-Architecture-Template\\Onion-Architecture-Template\\Program.cs",
+              "RelativeDocumentMoniker": "Onion-Architecture-Template\\Program.cs",
+              "ToolTip": "E:\\Coding\\Onion-Architecture-Template\\Onion-Architecture-Template\\Program.cs",
+              "RelativeToolTip": "Onion-Architecture-Template\\Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABoAAABXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-06T15:29:49.924Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
